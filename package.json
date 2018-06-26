@@ -1,5 +1,5 @@
 {
-  "name": "preview-component",
+  "name": "vue-user-sample-component",
   "version": "1.0.12",
   "main": "src/index.js",
   "scripts": {
@@ -7,6 +7,10 @@
     "build": "node build/build.js",
     "build-docs": "node build/build-docs.js",
     "build-main": "node build/build-main.js"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/LuisAcerv/user-preview"
   },
   "license": "MIT",
   "dependencies": {
